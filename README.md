@@ -1,4 +1,4 @@
-# freeCodeCamp Learning
+# freeCodeCamp Project
 
 🇬🇧 [English](#english) · 🇮🇩 [Bahasa Indonesia](#bahasa-indonesia)
 
