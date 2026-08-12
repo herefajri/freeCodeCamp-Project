@@ -26,7 +26,7 @@ Exercises and projects completed as part of the **Responsive Web Design** certif
 
 #### JavaScript
 
-**Status:** ⏳ Planned
+**Status:** Planned
 
 Exercises and projects from the JavaScript certification will be added here after completing the previous course.
 
